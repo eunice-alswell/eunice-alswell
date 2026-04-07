@@ -9,10 +9,10 @@ I am currently deepening my skills in machine learning, data engineering, and sy
 
 
 ## What I’m Interested In
-- Building real world software systems end to end
+- Building real-world software systems end-to-end
 - Backend services and API design
 - Machine learning from fundamentals to practical application
-- AI assisted tools for productivity and content
+- AI-assisted tools for productivity and content
 - Systems that are useful, clear, and responsible
 
 
