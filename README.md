@@ -61,7 +61,7 @@ I am currently deepening my skills in machine learning, data engineering, and sy
 - [Adiefie Marchantile website](https://github.com/eunice-alswell/Adiefe_Merchantile_website) - Business and E-commerce Ecommerce website powered by Google Sheets for product and inventory flow
 - [Multi-Service Platform (Restaurant, Fitness, Events)](https://github.com/combo-and-casa/combos-and-casa-business-website)
   
-*(Coming soon — intentional projects, not rushed demos)*
+### *(Coming soon — intentional projects, not rushed demos)*
 I am actively building machine learning projects that I can ship and explain clearly, not just tutorial demos.
 - **Context-Aware Content Intelligence System**  
   NLP-based system for transforming long-form content into platform-aware outputs with explanations.
